@@ -1,0 +1,11 @@
+This is a placeholder for the audio file. To add an actual birthday song:
+1. Download or create a birthday song (mp3 format)
+2. Replace this file with the actual audio file using:
+   - GitHub web interface (Upload files)
+   - Or using git: git add birthday-song.mp3 && git commit -m "Add birthday song"
+3. You can use royalty-free songs from:
+   - Pixabay Music: https://pixabay.com/music/
+   - Bensound: https://www.bensound.com/
+   - YouTube Audio Library
+   
+Recommended: "Happy Birthday" instrumental or "Birthday" by Katy Perry (if rights allow)
